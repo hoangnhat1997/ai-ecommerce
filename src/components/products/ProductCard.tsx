@@ -10,7 +10,7 @@ export default function ProductCard({ product }: { product: Product }) {
     >
       <div className="relative w-full aspect-[4/3]">
         <Image
-          src={product.image}
+          src={product.imageUrl || ""}
           alt={product.name}
           fill
           className="object-cover group-hover:scale-105 transition-transform duration-300"

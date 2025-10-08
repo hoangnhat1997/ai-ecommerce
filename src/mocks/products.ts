@@ -6,7 +6,7 @@ export const mockProducts: Product[] = [
     name: "Tai nghe Bluetooth Sony WH-1000XM5",
     category: "Âm thanh",
     price: 8990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -14,7 +14,7 @@ export const mockProducts: Product[] = [
     name: "MacBook Air M3 2024",
     category: "Laptop",
     price: 32990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -22,7 +22,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -30,7 +30,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -38,7 +38,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -46,7 +46,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
   {
@@ -54,7 +54,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/42/342679/s16/iphone-17-pro-max-cam-thumb-650x650.png",
   },
   {
@@ -62,7 +62,7 @@ export const mockProducts: Product[] = [
     name: "Điện thoại iPhone 15 Pro Max",
     category: "Điện thoại",
     price: 31990000,
-    image:
+    imageUrl:
       "https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png",
   },
 ];
