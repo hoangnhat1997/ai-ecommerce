@@ -28,7 +28,7 @@ export default function AIShopPage() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Nhập yêu cầu (VD: Laptop chơi game dưới 20 triệu)"
-          className="flex-grow border rounded p-2"
+          className="flex-grow border rounded p-2 bg-white text-black"
         />
         <button
           onClick={handleSearch}
@@ -44,6 +44,8 @@ export default function AIShopPage() {
             <Image
               src={p.imageUrl || ""}
               alt={p.name}
+              width={100}
+              height={100}
               className="w-full h-40 object-cover"
             />
             <h2 className="text-lg font-medium mt-2">{p.name}</h2>
